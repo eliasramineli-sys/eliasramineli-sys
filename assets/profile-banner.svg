@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">Elias Ramineli — Engenharia de Computação, Python e Dados</title>
+  <desc id="desc">Banner em azul-marinho com detalhes verdes e apresentação do portfólio.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0c1627"/>
+      <stop offset="1" stop-color="#172d44"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#90b4ce" stroke-opacity=".06"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="280" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="280" rx="20" fill="url(#grid)"/>
+  <rect x="44" y="55" width="5" height="169" rx="2.5" fill="#61ddc2"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="76" y="83" fill="#61ddc2" font-size="14" font-weight="700" letter-spacing="3">PORTFÓLIO DE TECNOLOGIA</text>
+    <text x="74" y="148" fill="#f3f7fc" font-size="52" font-weight="700">Elias Ramineli</text>
+    <text x="76" y="191" fill="#ccdae9" font-size="24">Engenharia de Computação · Python · Dados</text>
+    <text x="76" y="226" fill="#9db2c9" font-size="17">Aplicações, análise de dados e aprendizado por projetos.</text>
+  </g>
+  <g transform="translate(1010 93)" fill="none" stroke="#61ddc2" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" opacity=".8">
+    <path d="m0 10-26 32 26 32M82 10l26 32-26 32M53 0 29 84"/>
+  </g>
+</svg>
