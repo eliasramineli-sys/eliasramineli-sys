@@ -6,7 +6,7 @@
 
 Sou estudante de **Engenharia de Computação**, com formação em **Ciência de Dados pela EBAC** e estudos em **Python, Java, C++, HTML, CSS e JavaScript**. Tenho conhecimento em **Power BI** e desenvolvo projetos para transformar aprendizado técnico em aplicações práticas.
 
-Minha experiência anterior como **Analista de E-commerce/Marketplace na Araki Suplementos** inclui atividades relacionadas a vendas, indicadores e operações digitais.
+Minha experiência anterior como **Analista de E-commerce/Marketplace inclui atividades relacionadas a vendas, indicadores e operações digitais.
 
 ## 🛠️ Tecnologias e ferramentas
 
